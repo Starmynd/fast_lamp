@@ -23,4 +23,5 @@ Automate the setup of a LAMP (Linux, Apache, MySQL, PHP) stack on Ubuntu systems
 2. **Make Executable**:
    ```bash
    chmod +x install.sh
-sudo ./install.sh
+   sudo ./install.sh
+
